@@ -1,0 +1,18 @@
+#header {
+    background: url(../img/plato3.jpg) top/ cover no-repeat;
+    
+}
+
+.tam {
+    width: 100px;
+    margin: -30px;
+}
+
+.bg-dark-x {
+    background-color: #1e2126;
+}
+
+.form-control, .btr {
+    min-height: 3.125rem;
+    line-height: initial;
+}
